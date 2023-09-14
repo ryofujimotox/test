@@ -3,6 +3,7 @@
 
 ### Emacs ###
 # -*- mode: gitignore; -*-
+test
 *2~2
 \#*\#
 /.emacs.desktop
